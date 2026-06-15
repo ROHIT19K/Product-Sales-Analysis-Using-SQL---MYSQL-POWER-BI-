@@ -206,10 +206,19 @@ This ensured that reports continued functioning correctly after migration.
 ## 📊 Product Sales Dashboard
 
 ![Image1](https://github.com/ROHIT19K/Product-Sales-Analysis-Using-SQL---MYSQL-POWER-BI-/blob/main/SQL%201.png)
+
 ![Image2](https://github.com/ROHIT19K/Product-Sales-Analysis-Using-SQL---MYSQL-POWER-BI-/blob/main/SQL%202.png)
+
 ![Image3](https://github.com/ROHIT19K/Product-Sales-Analysis-Using-SQL---MYSQL-POWER-BI-/blob/main/MYSQL%201.png)
+
+Report Development 
+
 ![Image4](https://github.com/ROHIT19K/Product-Sales-Analysis-Using-SQL---MYSQL-POWER-BI-/blob/main/Page%201.png)
+
 ![Image5](https://github.com/ROHIT19K/Product-Sales-Analysis-Using-SQL---MYSQL-POWER-BI-/blob/main/Page%202.png)
+
+Power BI Service Published
+
 ![Image6](https://github.com/ROHIT19K/Product-Sales-Analysis-Using-SQL---MYSQL-POWER-BI-/blob/main/SQL%20Server%20Power%20BI%20Published%20.png)
 ---
 
