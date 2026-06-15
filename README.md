@@ -224,25 +224,25 @@ Power BI Service Published
 
 # 🔍 Key Insights
 
-## 📌 Demand vs Availability Gap
+* 📌 Demand vs Availability Gap
 
 Average Daily Demand is 48.65 units, while Average Daily Availability is only 24.70 units.
 Product availability is meeting only about 50% of customer demand, indicating a significant supply-demand imbalance.
 This shortage may result in lost sales opportunities, customer dissatisfaction, and reduced market competitiveness.
 
-## 📌 Supply Chain Performance
+* 📌 Supply Chain Performance
 The business experienced a total supply shortage of approximately 61,000 units.
 Frequent stock shortages suggest potential issues in inventory planning, forecasting accuracy, supplier performance, or replenishment strategies.
 
-## 📌 Profitability Analysis
+* 📌 Profitability Analysis
 The company generated a total profit of approximately 301K.
 However, despite positive profitability, operational inefficiencies are affecting overall financial performance.
 
-## 📌 Loss Analysis
+* 📌 Loss Analysis
 Total losses amount to approximately 8 million, significantly exceeding total profit.
 The high loss-to-profit ratio indicates that inventory shortages, inefficient supply planning, stockouts, or operational disruptions are negatively impacting business performance.
 
-## 📌 Daily Operational Impact
+* 📌 Daily Operational Impact
 The average daily loss is approximately 2.97K.
 Persistent daily losses indicate recurring operational challenges that require immediate attention to prevent long-term financial impact.
 
